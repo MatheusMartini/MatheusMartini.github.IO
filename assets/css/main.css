@@ -1,0 +1,45 @@
+header{
+    background-image: url(../img/capa.jpg);
+    max-width: 100%;
+    max-height: 100%;
+    color: #ffffff;
+}
+.jumbotron1 {
+    padding-top: 20px!important;
+    padding-bottom: 80px!important;
+    color: #ffffff;
+    background-image: url(../img/capa.jpg);
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.img {
+    max-height: 100%;
+    max-width: 100%;
+    background: #aaa;
+  }
+h6{
+    color: #ffffff;
+}
+ul{
+    list-style: none;
+
+}
+li{
+    margin-left: 10px; 
+    float: left;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.al {
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+    margin-left:2%;
+    margin-right: 2%; 
+}   
+.btn{
+    margin: 0%;
+}
